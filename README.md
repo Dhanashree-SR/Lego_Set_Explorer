@@ -1,56 +1,73 @@
-## Welcome to the LEGO Finder Dashboard project! 🚀
+# 🧱 LEGO Finder Dashboard - Power BI Project 🧩
 
-This interactive Power BI dashboard was built to help LEGO enthusiasts explore over 4,000 LEGO sets. It allows users to easily filter and discover the perfect LEGO set based on age group, theme, and more.
+Welcome to the **LEGO Finder Dashboard** — a fully interactive Power BI project built to help users explore over **4,000+ LEGO sets** by age, theme, and more.
 
-## Project Overview
+This project was completed as part of the **LEGO Set Explorer** guided challenge from [Maven Analytics](https://www.mavenanalytics.io/), aimed at building custom tools that enhance data exploration and storytelling.
 
-The LEGO Finder Dashboard is a custom Power BI tool designed for discovering LEGO sets that suit your preferences. With this dashboard, you can:
+---
 
-* **Filter LEGO sets by age group** (5-9, 10-17, 18+)
-* **Explore by themes** (Star Wars, Marvel, Icons, and more)
-* **Hover to preview LEGO set images**, theme groups, and related themes
-* **Use slicers, bookmarks, and numerical range parameters** to simulate an app-like experience
+## 📊 Project Highlights
 
-## Key Features
+- ✅ 4,385 LEGO sets analyzed
+- 🧒 Filter by **age range** (5–9, 10–17, Over 18)
+- 🎯 Explore by **theme group** (e.g., Star Wars, Icons, Marvel)
+- 🖼️ **Custom image tooltips** for each LEGO set
+- 💡 Interactive UI using **slicers, bookmarks & numerical range parameters**
 
-* **Dynamic Age Group Filters**: Easily filter LEGO sets based on age groups to find age-appropriate options.
-* **Theme Exploration**: Browse LEGO sets by popular themes like Star Wars, Marvel, Icons, and more.
-* **Interactive Experience**: Use slicers and bookmarks to create an engaging, interactive experience.
-* **Real-time Image Previews**: Hover over sets to instantly view LEGO set images, themes, and more.
-* **DAX Measures**: Utilized DAX to calculate metrics like average price, total number of sets, and pieces.
+---
 
-## Skills & Tools Used
+## 🧠 Skills Practiced
 
-* **Power BI**: The dashboard was built using Power BI, incorporating DAX, slicers, bookmarks, and other advanced features.
-* **DAX**: Applied DAX to calculate key metrics such as average price, total sets, and total pieces.
-* **Power BI Features**: Used slicers, numerical range parameters, bookmarks, and report page tooltips for dynamic interaction.
-* **Maven Analytics**: This project was part of the LEGO Set Explorer challenge in Maven Analytics.
+- ✔️ **DAX Measures** — for average price, piece count, set count
+- ✔️ **Numerical Range Parameters** — to filter dynamically by piece count
+- ✔️ **Bookmarks** — for simulating a multi-page user interface
+- ✔️ **Report Page Tooltips** — for hoverable LEGO images with theme context
+- ✔️ **Dashboard Design** — to enhance user experience and storytelling
 
-## How to Use
+---
 
-1. **Download the .pbix file**
-2. **Open in Power BI Desktop**: To explore and interact with the dashboard, open the file in Power BI Desktop.
-3. **Filters and Navigation**: Use the slicers for age groups and themes to filter LEGO sets. Hover over set images for previews.
-4. **Explore Dynamic Features**: Try out the numerical range parameters and bookmarks for an interactive, app-like experience.
+## 🎓 Learning Source
 
-## Project Background
+This dashboard was created as part of the [LEGO Set Explorer](https://app.mavenanalytics.io/guided-projects/7ea2d5de-8a63-4c92-8350-b640d6df07d4?_gl=1*1vh8n68*_gcl_au*NTI0ODE1OTY3LjE3NDU3Mzc1OTY.*_ga*MTU4NDg1NDg1OS4xNzM3MjY1ODE5*_ga_RNVXNX7G3B*czE3NDcyODgwNzQkbzIzJGcxJHQxNzQ3Mjg4MjMyJGozMSRsMCRoMA..*_ga_D6PKE9HLBV*czE3NDcyODgwNzUkbzIzJGcxJHQxNzQ3Mjg4MjMyJGowJGwwJGgw*_ga_9CBEFJW9QX*czE3NDcyODgwNzUkbzIzJGcxJHQxNzQ3Mjg4MjMyJGowJGwwJGgw) guided project on **Maven Analytics**, with mentorship from [@Chris Dutton](https://www.linkedin.com/in/csdutton/).
 
-This project was completed as part of the **LEGO Set Explorer Challenge** from Maven Analytics. The challenge was to build a custom, interactive tool for discovering the perfect LEGO set. The project helped me enhance my skills in Power BI, including the use of DAX, dynamic filters, and advanced dashboard design.
+🏅 **Completion badge earned** from Maven Analytics.
 
-## Installation
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/143119821"/>
 
-1. Clone or download this repository.
-2. Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
+## 📸 Dashboard Preview
 
-## Contributions
+> _Insert a screenshot or GIF preview of your dashboard here_
 
-If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
+---
 
-## Acknowledgments
+## 🚀 Getting Started
 
-* **@Maven Analytics**: Thank you for creating this fantastic learning path and challenge!
-* **@Chris Dutton**: A huge thank you to my mentor, Chris Dutton, for providing guidance and feedback throughout the project.
+> _Since this is a Power BI project, include instructions if others want to open or interact with your .pbix file._
 
-## License
+1. Clone/download this repo
+2. Open `Lego-Finder.pbix` in Power BI Desktop
+3. Explore, edit, or build on top of the dashboard
 
-This project is licensed under the MIT License
+---
+
+## 📂 Files Included
+
+- `Lego-Finder.pbix` - Main Power BI Dashboard File
+- `Lego-Finder.pdf` - Static PDF export for quick view
+- `README.md` - Project documentation (this file)
+
+---
+
+## 💬 Let's Connect!
+
+If you'd like to collaborate, give feedback, or explore more projects like this, feel free to connect:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 📧 Email: yourname@example.com
+
+---
+
+## 📌 Tags
+
+`Power BI` `Data Analytics` `DAX` `Dashboard Design` `LEGO` `Maven Analytics` `Portfolio Project`
+
