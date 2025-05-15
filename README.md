@@ -30,19 +30,19 @@ This project was completed as part of the **LEGO Set Explorer** guided challenge
 
 This dashboard was created as part of the [LEGO Set Explorer](https://app.mavenanalytics.io/guided-projects/7ea2d5de-8a63-4c92-8350-b640d6df07d4?_gl=1*1vh8n68*_gcl_au*NTI0ODE1OTY3LjE3NDU3Mzc1OTY.*_ga*MTU4NDg1NDg1OS4xNzM3MjY1ODE5*_ga_RNVXNX7G3B*czE3NDcyODgwNzQkbzIzJGcxJHQxNzQ3Mjg4MjMyJGozMSRsMCRoMA..*_ga_D6PKE9HLBV*czE3NDcyODgwNzUkbzIzJGcxJHQxNzQ3Mjg4MjMyJGowJGwwJGgw*_ga_9CBEFJW9QX*czE3NDcyODgwNzUkbzIzJGcxJHQxNzQ3Mjg4MjMyJGowJGwwJGgw) guided project on **Maven Analytics**, with mentorship from [@Chris Dutton](https://www.linkedin.com/in/csdutton/).
 
-🏅 **Completion badge earned** from Maven Analytics.
+🏅 **Completion badge earned** from Maven Analytics. <br/>
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/143119821"/>
 
 ## 📸 Dashboard Preview
 
-> _Insert a screenshot or GIF preview of your dashboard here_
+<img src="Lego Dataset Project/Project Images/Lego-Finder_pages-to-jpg-0001.jpg"/>
+<img src="Lego Dataset Project/Project Images/Lego-Finder_pages-to-jpg-0002.jpg"/>
+
 
 ---
 
 ## 🚀 Getting Started
-
-> _Since this is a Power BI project, include instructions if others want to open or interact with your .pbix file._
 
 1. Clone/download this repo
 2. Open `Lego-Finder.pbix` in Power BI Desktop
@@ -52,9 +52,11 @@ This dashboard was created as part of the [LEGO Set Explorer](https://app.mavena
 
 ## 📂 Files Included
 
-- `Lego-Finder.pbix` - Main Power BI Dashboard File
-- `Lego-Finder.pdf` - Static PDF export for quick view
-- `README.md` - Project documentation (this file)
+- `Lego-Finder.pbix` – Main Power BI dashboard file  
+- `Lego-Finder.pdf` – Static PDF export for quick preview  
+- `lego_sets.csv` – Cleaned dataset used for dashboard visuals  
+- `lego_sets_data_dictionary.csv` – Dataset dictionary explaining column meanings  
+- `README.md` – Project documentation
 
 ---
 
@@ -62,8 +64,8 @@ This dashboard was created as part of the [LEGO Set Explorer](https://app.mavena
 
 If you'd like to collaborate, give feedback, or explore more projects like this, feel free to connect:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 📧 Email: yourname@example.com
+- 🔗 (https://www.linkedin.com/in/dhanashree-sr/)
+- 📧 Email: dhanashreesr5@gmail.com
 
 ---
 
